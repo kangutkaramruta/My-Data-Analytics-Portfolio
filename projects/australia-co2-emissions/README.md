@@ -4,11 +4,11 @@
 Decision-makers need a clear view of how Australia’s emissions have changed over time, what drives them, and what the economic/environment trade-offs look like.
 
 ## Dataset
-Source: (add source or “public dataset”)
-Time period: (e.g., 1950–2022)
+Source: ( public dataset: https://mavenanalytics.io/data-playground/global-co2-emissions)
+Time period: ( 1950–2022)
 
 ## What I built
-- KPI cards (Total CO₂, CO₂ per capita, CO₂ per GDP)
+- KPI cards (Total CO₂, CO2 overall increase or decrease)
 - Trend analysis over time
 - Fuel source breakdown (coal, oil, gas, cement)
 - Filters/slicers for year and metrics
