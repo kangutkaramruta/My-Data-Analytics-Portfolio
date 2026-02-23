@@ -31,3 +31,6 @@ Economic productivity is becoming more energy efficient, but there is a strong r
 
 ![Dashboard Overview](./screenshots/overview.png)
 ![Trends](./screenshots/trends.png)
+
+## Note
+PBIX available on request due to file size/data licensing.
