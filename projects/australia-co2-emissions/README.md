@@ -29,7 +29,7 @@ Economic productivity is becoming more energy efficient, but there is a strong r
 ## Screenshots
 (Images below)
 
-![Dashboard Overview](./screenshots/overview.png)
+![Dashboard Overview](./Screenshot (688).png)
 
 
 ## Note
