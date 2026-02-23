@@ -5,7 +5,7 @@ Decision-makers need a clear view of how Australia’s emissions have changed ov
 
 ## Dataset
 Source: ( public dataset: https://mavenanalytics.io/data-playground/global-co2-emissions)
-Time period: ( 1950–2022)
+Time period: (1950–2022)
 
 ## What I built
 - KPI cards (Total CO₂, CO2 overall increase or decrease)
