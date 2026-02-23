@@ -29,8 +29,7 @@ Economic productivity is becoming more energy efficient, but there is a strong r
 ## Screenshots
 (Images below)
 
-![Dashboard Overview](./screenshots/overview.png)
-
+![Dashboard](./Screenshot CO2 Emissions.png)
 
 ## Note
 PBIX available on request due to file size/data licensing.
