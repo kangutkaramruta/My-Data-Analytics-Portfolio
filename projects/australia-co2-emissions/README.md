@@ -25,7 +25,9 @@ Time period: (1950–2022)
 
 ## Why this matters?
 -Decisions regarding energy transitions will shape future emissions trajectories.
+
 -Tracking per capita emissions can show changes in people's behaviours and infrastructure.
+
 -This data visualisation can support evidence-based environmental policy and strategy.
 
 ## Conclusion:
