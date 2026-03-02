@@ -46,4 +46,9 @@ Analyse whether host listing descriptions align with customer review sentiment, 
 ## Repo Contents
 - `/process/` RapidMiner process files (.rmp)
 
+## Note
+This project was completed as part of a Deakin University assessment.  
+The dataset used is not included due to licensing restrictions.  
+All analysis, modelling, and interpretation shown here are my own work.
+
   
