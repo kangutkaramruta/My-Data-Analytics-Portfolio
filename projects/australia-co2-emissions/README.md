@@ -14,13 +14,18 @@ Time period: (1950–2022)
 
 ## What I built
 - KPI cards (Total CO₂, CO2 overall increase or decrease)
+  
 - Trend analysis over time
+
 - Fuel source breakdown (coal, oil, gas, cement)
+  
 - Filters/slicers for year and metrics
 
 ## Key insights
---Australia's total CO2 emissions have grown significantly since mid 20th century mirroring with industrial growth and rising energy demand. At the same time per capita impact of CO2 continues to rise overall with some decrease in the last few years highlighting the influence of energy mix, infrastructure and lifestyle changes of people.
+-Australia's total CO2 emissions have grown significantly since mid 20th century mirroring with industrial growth and rising energy demand. At the same time per capita impact of CO2 continues to rise overall with some decrease in the last few years highlighting the influence of energy mix, infrastructure and lifestyle changes of people.
+
 -The dominant emission source is Coal, followed by oil, gas, and industrial cement emissions.
+
 -The cumulative emissions of Australia contribute measurably to rising global temperatures, and this reinforces the importance of long-term transition strategies.
 
 ## Why this matters?
