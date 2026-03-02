@@ -1,5 +1,10 @@
 # Australia CO₂ Emissions Dashboard (Power BI)
 
+## Screenshots
+(Images below)
+
+![Dashboard](./co2-dashboard.png)
+
 ## Problem
 Decision-makers need a clear view of how Australia’s emissions have changed over time, what drives them, and what the economic/environment trade-offs look like.
 
@@ -25,11 +30,6 @@ Time period: (1950–2022)
 
 ## Conclusion:
 Economic productivity is becoming more energy efficient, but there is a strong reliance on fossil fuels. Energy efficiency may alone not work in offsetting emissions, but a deeper shift in energy systems and consumption patterns is needed.
-
-## Screenshots
-(Images below)
-
-![Dashboard](./co2-dashboard.png)
 
 ## Note
 PBIX available on request due to file size/data licensing.
