@@ -5,16 +5,16 @@
 ## Screenshots
 
 ### RapidMiner Workflow
-![Workflow 1](Screenshot (708).png)
-![Workflow 2](Screenshot (709).png)
+![Workflow 1](<Screenshot (708).png>)
+![Workflow 2](<Screenshot (709).png>)
 
 ### Model Output / Performance
-![Model Output 1](Screenshot (710).png)
-![Model Output 2](Screenshot (711).png)
+![Model Output 1](<Screenshot (710).png>)
+![Model Output 2](<Screenshot (711).png>)
 
 ### Clustering Results
-![Clustering 1](Screenshot (712).png)
-![Clustering 2](Screenshot (713).png)
+![Clustering 1](<Screenshot (712).png>)
+![Clustering 2](<Screenshot (713).png>)
 
 ## Objective
 Analyse whether host listing descriptions align with customer review sentiment, identify drivers of review score ratings, and segment properties into actionable clusters.
