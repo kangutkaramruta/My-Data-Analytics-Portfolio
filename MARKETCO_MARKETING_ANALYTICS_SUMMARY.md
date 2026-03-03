@@ -1,5 +1,7 @@
 # Project: MarketCo Marketing Analytics (Assignment 2)
 
+📄 Full Report (Word Version): [Download Report](MIS784_AT2_s219349471_Query(2).docx)
+
 ## Goal
 Analysed customer behaviour, membership performance (Gold vs Non-Gold), communication patterns (inbound/outbound), and demographic drivers of spend to identify marketing opportunities and recommend strategies to improve online sales and retention.
 
