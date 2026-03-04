@@ -4,13 +4,13 @@
 
 ## Screenshots
 
-### Membership / Spend Analysis
+
 ![Membership Analysis](Screenshot%20(722).png)
 
-### Age Group Spending
+
 ![Age Spend](Screenshot%20(724).png)
 
-### Product / State Insights
+
 ![Product Analysis](Screenshot%20(725).png)
 
 ## Goal
