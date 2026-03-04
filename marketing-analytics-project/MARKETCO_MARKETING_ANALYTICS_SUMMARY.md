@@ -2,6 +2,15 @@
 
 📄 Full Report (Word Version): [Download Report](MIS784_AT2_s219349471_Query(2).docx)
 
+## Screenshots
+
+
+(images/Screenshot (722).png)
+
+(images/Screenshot (724).png)
+
+(images/Screenshot (725).png)
+
 ## Goal
 Analysed customer behaviour, membership performance (Gold vs Non-Gold), communication patterns (inbound/outbound), and demographic drivers of spend to identify marketing opportunities and recommend strategies to improve online sales and retention.
 
