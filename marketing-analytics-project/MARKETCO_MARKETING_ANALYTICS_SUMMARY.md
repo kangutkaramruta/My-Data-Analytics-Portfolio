@@ -4,12 +4,14 @@
 
 ## Screenshots
 
+### Membership / Spend Analysis
+![Membership Analysis](Screenshot%20(722).png)
 
-(images/Screenshot (722).png)
+### Age Group Spending
+![Age Spend](Screenshot%20(724).png)
 
-(images/Screenshot (724).png)
-
-(images/Screenshot (725).png)
+### Product / State Insights
+![Product Analysis](Screenshot%20(725).png)
 
 ## Goal
 Analysed customer behaviour, membership performance (Gold vs Non-Gold), communication patterns (inbound/outbound), and demographic drivers of spend to identify marketing opportunities and recommend strategies to improve online sales and retention.
